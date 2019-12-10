@@ -1,0 +1,17 @@
+.nav-link {
+    cursor: pointer;
+    width: auto;
+    height: auto;
+    
+}
+
+#content {
+    display: none;
+    background: #56baed;
+}
+
+.profil {
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+}
